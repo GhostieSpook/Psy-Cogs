@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "GhostieSpook",
+    "INSTALL_MSG" : "You have successfully installed Love. Now Love your senpai/waifu more then anyone!",
+    "NAME" : "love",
+    "SHORT" : "[p]love @user",
+    "DESCRIPTION" : "Love your senpai/waifu! the most",
+    "TAGS" : ["love"],
+    "REQUIREMENTS" : [],
+    "HIDDEN" : false
+}
