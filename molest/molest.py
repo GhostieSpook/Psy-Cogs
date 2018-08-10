@@ -14,7 +14,7 @@ class Molest:
         
         molest = "**{0} Molests {1}!**"
         
-        choices = ['https://i.imgur.com/ggGUG8n.gifv', 'https://i.imgur.com/UZdI8r9.gifv', 'https://i.imgur.com/iQGR92x.gifv', 'https://i.imgur.com/YL1ppb3.gifv']
+        choices = ['https://i.imgur.com/kt6et0W.gifv', 'https://i.imgur.com/PoVeOxe.gifv', 'https://i.imgur.com/wSRc9Eu.gifv']
         
         image = random.choice(choices)
         
